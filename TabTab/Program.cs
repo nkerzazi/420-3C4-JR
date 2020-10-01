@@ -10,6 +10,7 @@ namespace TabTab
     {
         static void Main(string[] args)
         {
+            //Creation d'un tableau multi-dimentionel
             string[] tabEtudiants = new string[3];
             tabEtudiants[0] = "Maximo";
             tabEtudiants[1] = "Jonathan";
