@@ -18,7 +18,7 @@ namespace TabTab
 
             Hashtable ma_HashTable = new Hashtable();
 
-            //Ajout d'elements dans ma_dictionary
+            //Ajout d'elements dans ma_Hashatable
             ma_HashTable.Add("A1", "A Un");
             ma_HashTable.Add("A2", "A Deux");
             ma_HashTable.Add("A3", "A Trois");
